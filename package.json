@@ -1,0 +1,13 @@
+{
+  "name": "POC",
+  "version": "1.0.0",
+  "description": "POC",
+  "main": "script.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
